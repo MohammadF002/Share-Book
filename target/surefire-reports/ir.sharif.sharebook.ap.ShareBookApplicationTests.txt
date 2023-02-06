@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ir.sharif.sharebook.ap.ShareBookApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.688 s - in ir.sharif.sharebook.ap.ShareBookApplicationTests
