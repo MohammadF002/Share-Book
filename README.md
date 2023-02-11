@@ -1,6 +1,4 @@
 # Share-Book
-AP final project
-
 This the restful web application made by java and springboot frameword where you can find second hand books for less 
 price. Those who have books that doesn't need can sell them to our repositorykeeper and 
 the book will be placed online for sell.
